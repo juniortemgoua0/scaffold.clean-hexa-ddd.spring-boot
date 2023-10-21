@@ -1,0 +1,3 @@
+[submodule "libs/library.core.utilities"]
+	path = libs/library.core.utilities
+	url = ...///
